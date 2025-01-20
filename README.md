@@ -15,7 +15,7 @@ Hello! I’m Samuel, a professional with a background in Mechatronics Engineerin
 
 ## Tech Stacks and Tools
 
-Python, Java, C++, Kafka, Spark, Hadoop, Databricks, PostgreSQL, MySQL, NoSQL, AWS, Azure, GCP, Docker, Kubernetes, Apache Airflow, AWS Glue, CI/CD, Git, GitHub, Apache Flink, Simulink, MATLAB, SCADA, LabVIEW
+Python, Java, C++, Kafka, Spark, Hadoop, Databricks, PostgreSQL, MySQL, NoSQL, MongoDB, AWS, Azure, GCP, Docker, Kubernetes, Apache Airflow, AWS Glue, CI/CD, Git, GitHub, Apache Flink, Simulink, MATLAB, SCADA, LabVIEW
 
 ## PROJECTS
 
@@ -23,7 +23,6 @@ Python, Java, C++, Kafka, Spark, Hadoop, Databricks, PostgreSQL, MySQL, NoSQL, A
 - **ETL PIPELINE AUTOMATION:** Using Apache Airflow to orchestrate data workflows, ensuring efficiency in data processing and integration.
 - **RETAIL DATA ANALYTICS:** Creating indicators and reports based on log data for e-commerce and physical retail, focusing on multidimensional metrics.
 - **MICROSERVICES DEVELOPMENT:** Designing and developing microservices-based architectures to ensure scalability, maintainability, and flexibility in software systems.
-- **REAL-TIME DATA STREAMING WITH KAFKA:** Implementing Kafka for real-time data streaming and processing, enabling the integration of real-time analytics and decision-making systems.
 
 ## Contact
 
