@@ -27,5 +27,5 @@ Python, Java, C++, Kafka, Spark, Hadoop, Databricks, PostgreSQL, MySQL, NoSQL, M
 ## Contact
 
 - **Email:** samuelrodrigues739@hotmail.com
-- **LinkedIn:** (https://linkedin.com/in/samuel-miranda-71b545192)
-- **GitHub:** (https://github.com/(https://github.com/SamuelEngMek))
+- **LinkedIn:** https://linkedin.com/in/samuel-miranda-71b545192
+- **GitHub:** https://github.com/SamuelEngMek
